@@ -1,5 +1,5 @@
 # MyFirstProject
-This will be my first repo in my GitHub exploration.
+This will be our first repo in our GitHub exploration.
 
 This project is also MY first project!
 
